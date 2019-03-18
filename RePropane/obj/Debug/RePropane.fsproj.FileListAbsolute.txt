@@ -1,0 +1,10 @@
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\RePropane.exe.config
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\RePropane.XML
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\RePropane.exe
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\RePropane.pdb
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\FSharp.Core.dll
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\System.ValueTuple.dll
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\FSharp.Core.xml
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\obj\Debug\RePropane.exe
+d:\personal\documents\visual studio 2017\Projects\RePropane\RePropane\obj\Debug\RePropane.pdb
